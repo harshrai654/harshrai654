@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshrai456@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18hsGtfMcsJ3bOxNkRsD5sWp7l0u6_hYJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FUsvNZrfBqLKZOc3qolp6c7fbTahKTwe/view?usp=sharing)
 
 
 <br>

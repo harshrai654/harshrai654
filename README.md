@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Rai</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with **Web3 concepts and Spring Boot**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **JavaScript, React, Node**
 
 - 📫 How to reach me **harshrai456@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WMQczujZqbcLSzedKsIyOhyjvXafkaYi/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rwm7D9MmWxb92kk8FEsfj3FEGBWY0lzX/view?usp=sharing)
 
 
 <br>

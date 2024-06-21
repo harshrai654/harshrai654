@@ -14,3 +14,4 @@ Go, JavaScript, React, Node.js, Express.js, Python, Django, Java, C++, TypeScrip
 - [Twitter](https://twitter.com/harshrai3)
 - [LinkedIn](https://linkedin.com/in/harshraitth)
 - [LeetCode](https://www.leetcode.com/harshtth)
+- [![Peerlist](https://github-readme-badge.peerlist.io/api/ttharsh?style=social)](https://peerlist.io/ttharsh)

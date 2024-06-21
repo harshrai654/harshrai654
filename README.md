@@ -1,4 +1,5 @@
 Hi, I am a software engineer passionate about reading and implementing system architectures, database internals, observability and backend infrastructure.
+- 🏢 Currently working at [KoinX](https://www.koinx.com/in) as software engineer.
 - 🌱 Currently learning Go 
 - 💬 Ask me about JS, TS, Node, Mongo, SQL and Go.
 - 📫 Reach me at harshrai456@gmail.com

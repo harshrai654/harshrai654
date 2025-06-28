@@ -13,16 +13,16 @@ Go, JavaScript, React, Node.js, Express.js, Python, Django, Java, C++, TypeScrip
 ## Recent Blog Posts
 
 <!--START_SECTION:feed-->
-* [CODEOWNERS-driven file organization](https://jasonet.co/posts/codeowners-driven-organization/)
-* [Remix first impressions](https://jasonet.co/posts/remix-first-impressions/)
-* [On "Spike work"](https://jasonet.co/posts/on-spike-work/)
-* [Assorted thoughts on documentation](https://jasonet.co/posts/thoughts-on-docs/)
-* [On "lurking"](https://jasonet.co/posts/on-lurking/)
-* [Probot App or GitHub Action? (Updated)](https://jasonet.co/posts/probot-app-or-github-action-v2/)
-* [Build your own Probot](https://jasonet.co/posts/build-your-own-probot/)
-* [New features of GitHub Actions v2](https://jasonet.co/posts/new-features-of-github-actions/)
-* [Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/)
-* [Just enough Docker](https://jasonet.co/posts/just-enough-docker/)
+* [Map Reduce](https://harshrai654.github.io/blogs/map-reduce/)
+* [Debugging Redis Latency](https://harshrai654.github.io/blogs/debugging-redis-latency/)
+* [Socket File Descriptor and TCP connections](https://harshrai654.github.io/blogs/socket-file-descriptor-and-tcp-connections/)
+* [Understanding Inodes and Disk Layout](https://harshrai654.github.io/blogs/file-system-implementation/)
+* [Files And Directories](https://harshrai654.github.io/blogs/files-and-directories/)
+* [RAID (Redundant array of inexpensive disk)](https://harshrai654.github.io/blogs/raid-redundant-array-of-inexpensive-disk/)
+* [Multilevel Page table](https://harshrai654.github.io/blogs/multilevel-page-table/)
+* [TLB](https://harshrai654.github.io/blogs/tlb/)
+* [Page Tables](https://harshrai654.github.io/blogs/page-tables/)
+* [B-Tree Latch Optimisation](https://harshrai654.github.io/blogs/b-tree-latch-optimisation/)
 <!--END_SECTION:feed-->
 
 ## Connect with me

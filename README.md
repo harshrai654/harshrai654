@@ -13,6 +13,8 @@ Go, JavaScript, React, Node.js, Express.js, Python, Django, Java, C++, TypeScrip
 ## Recent Blog Posts
 
 <!--START_SECTION:feed-->
+* [Multipart Form Uploads - Busboy and Node Streams](https://harshrai654.github.io/blogs/multipart-form-uploads---busboy-and-node-streams/)
+* [Building Fault Tolerant KV Storage System - Part 2](https://harshrai654.github.io/blogs/building-fault-tolerant-kv-storage-system---part-2/)
 * [Building Fault Tolerant KV Storage System - Part 1](https://harshrai654.github.io/blogs/building-fault-tolerant-kv-storage-system---part-1/)
 * [Map Reduce](https://harshrai654.github.io/blogs/map-reduce/)
 * [Debugging Redis Latency](https://harshrai654.github.io/blogs/debugging-redis-latency/)
@@ -21,8 +23,6 @@ Go, JavaScript, React, Node.js, Express.js, Python, Django, Java, C++, TypeScrip
 * [Files And Directories](https://harshrai654.github.io/blogs/files-and-directories/)
 * [RAID (Redundant array of inexpensive disk)](https://harshrai654.github.io/blogs/raid-redundant-array-of-inexpensive-disk/)
 * [Multilevel Page table](https://harshrai654.github.io/blogs/multilevel-page-table/)
-* [TLB](https://harshrai654.github.io/blogs/tlb/)
-* [Page Tables](https://harshrai654.github.io/blogs/page-tables/)
 <!--END_SECTION:feed-->
 
 ## Connect with me

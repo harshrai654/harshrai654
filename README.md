@@ -4,7 +4,7 @@ Hi, I am a software engineer passionate about reading and implementing system ar
 - 🌱 Currently learning Go
 - 💬 Ask me about JS, TS, Node, Mongo, SQL and Go.
 - 📫 Reach me at harshrai456@gmail.com
-- 📄 [My Resume](https://drive.google.com/file/d/1rwm7D9MmWxb92kk8FEsfj3FEGBWY0lzX/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1v1HG7g9Xw45yKhCsnpDPxgULOLkefR0m/view?usp=sharing)
 
 ## Skills
 

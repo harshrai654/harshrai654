@@ -12,6 +12,7 @@ Go, JavaScript, React, Node.js, Express.js, Python, Django, Java, C++, TypeScrip
 ## Recent Blog Posts
 
 <!--START_SECTION:feed-->
+* [XV6 boot](https://harshrai654.github.io/blogs/xv6-boot/)
 * [Debugging HTTP 503 UC Errors in Istio Service Mesh](https://harshrai654.github.io/blogs/debugging-http-503-uc-errors-in-istio-service-mesh/)
 * [Networking Basics](https://harshrai654.github.io/blogs/networking-basics/)
 * [Multipart Form Uploads - Busboy and Node Streams](https://harshrai654.github.io/blogs/multipart-form-uploads---busboy-and-node-streams/)
@@ -21,7 +22,6 @@ Go, JavaScript, React, Node.js, Express.js, Python, Django, Java, C++, TypeScrip
 * [Debugging Redis Latency](https://harshrai654.github.io/blogs/debugging-redis-latency/)
 * [Socket File Descriptor and TCP connections](https://harshrai654.github.io/blogs/socket-file-descriptor-and-tcp-connections/)
 * [Understanding Inodes and Disk Layout](https://harshrai654.github.io/blogs/file-system-implementation/)
-* [Files And Directories](https://harshrai654.github.io/blogs/files-and-directories/)
 <!--END_SECTION:feed-->
 
 ## Connect with me
